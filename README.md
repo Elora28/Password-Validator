@@ -7,3 +7,4 @@ whether the password is valid or not, and if it isn’t, it explains which requi
 Python fundamentals like string handling, loops, conditionals, and logical operators while showing how validation systems work 
 in real applications such as login forms and account creation pages.
 
+Overall, this project provides a simple but effective way to help users create stronger, more secure passwords.
